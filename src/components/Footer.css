@@ -1,0 +1,19 @@
+.bottomBar {
+    font-size:'14px';
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    color: aliceblue;
+    margin-bottom: 0px;
+    font-weight: 600;
+    position:fixed;
+    display:block;
+    bottom: 0px;
+}
+
+.bottomBar p {
+    padding-right: 20px;
+    bottom: 20px;
+    text-align: right;
+    width: 100%;
+}

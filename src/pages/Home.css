@@ -1,0 +1,29 @@
+.formDiv{
+    border: 2px solid rgba(216, 216, 215, 0.409);
+    border-radius: 25px;
+    width: 800px;
+    padding: 25px;
+    text-align: center;
+    display:block;
+    position: relative;
+    top:75px;
+    margin: 0px auto;
+    background-color: rgba(225, 229, 229, 0.253);
+    height:800px;
+  
+}
+
+.forCenter{
+   text-align: center;
+}
+
+.forInline{
+    display: inline-flex;
+   
+    padding-bottom: 5px;
+    padding-left: 200px;
+}
+
+.forRadio {
+    padding-left: 80px;
+}
